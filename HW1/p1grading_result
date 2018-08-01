@@ -1,0 +1,3216 @@
+[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[36mTraceback (most recent call last):[0m
+  File "./p1gradingscript", line 183, in main()
+[31mERROR[0m: matrix: permission error
+[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[31m	Failed: too many args to matrix dims (0/1)
+[0m[31m	Failed: no args to matrix add (0/1)
+[0m[31m	Failed: multiplying incompatible matrices (0/5)
+[0m[31m	Failed: adding incompatible matrices (0/4)
+[0m[31m	Failed: tranpose unreadable file (0/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[31m	Failed: matrix badcommand (0/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 1/15)
+[0m[31m	Failed: Stdin: ("wrong OPERATION or input" == "76 57") (0/3)
+[0m[31m	Failed: Stdin: ("wrong OPERATION or input" == "57 84") (0/3)
+[0m[31m	Failed: Stdin: ("wrong OPERATION or input" == "81 81") (0/3)
+[0m[31m	Failed: File input: ("51	68" == "51 68") (0/3)
+[0m[31m	Failed: File input: ("73	94" == "73 94") (0/3)
+[0m[31m	Failed: File input: ("84	54" == "84 54") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 1/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 11/43)
+[0m[31m	Failed: m1 == T(T(m1)) (0/5)
+[0m[31m	Failed: m2 == T(T(m2)) (0/5)
+[0m[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 11/58)
+[0m[31m	Failed: zero matrix (0/2)
+[0m[31m	Failed: ones matrix (0/5)
+[0m[31m	Failed: identity matrix (0/5)
+[0m[31m	Failed: hardcoded matrix (0/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 11/85)
+[0m[32m	Passed: 0 + 0 == 0 (2/2)
+[0m[32m	Passed: X + 0 == X (5/5)
+[0m[32m	Passed: 0 + X == X (5/5)
+[0m[32m	Passed: A + B  == B + A (1/1)
+[0m[32m	Passed: m1 + m2 == m3 (hardcoded matrix) (15/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 39/113)
+[0m[32m	Passed: I * M == M (5/5)
+[0m[32m	Passed: M * I == M (5/5)
+[0m[32m	Passed: 0 * M == 0 (5/5)
+[0m[32m	Passed: m3 == m1 * m2 (hardcoded matrix) (20/20)
+[0m[0;96m# Final grade: 74/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[31m	Failed: too many args to matrix dims (0/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[31m	Failed: multiplying incompatible matrices (0/5)
+[0m[31m	Failed: adding incompatible matrices (0/4)
+[0m[31m	Failed: tranpose unreadable file (0/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 3/15)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "81 72") (0/3)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "56 57") (0/3)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "87 81") (0/3)
+[0m[31m	Failed: File input: ("74	70" == "74 70") (0/3)
+[0m[31m	Failed: File input: ("100	79" == "100 79") (0/3)
+[0m[31m	Failed: File input: ("84	82" == "84 82") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 3/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 13/43)
+[0mwrong OPERATION or input
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0mwrong OPERATION or input
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0mwrong OPERATION or input
+[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 13/58)
+[0mwrong OPERATION or input
+[31m	Failed: zero matrix (0/2)
+[0m[31m	Failed: ones matrix (0/5)
+[0m[31m	Failed: identity matrix (0/5)
+[0m[31m	Failed: hardcoded matrix (0/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 13/85)
+[0m[32m	Passed: 0 + 0 == 0 (2/2)
+[0m[32m	Passed: X + 0 == X (5/5)
+[0m[32m	Passed: 0 + X == X (5/5)
+[0m[32m	Passed: A + B  == B + A (1/1)
+[0m[32m	Passed: m1 + m2 == m3 (hardcoded matrix) (15/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 41/113)
+[0m[32m	Passed: I * M == M (5/5)
+[0m[32m	Passed: M * I == M (5/5)
+[0m[32m	Passed: 0 * M == 0 (5/5)
+[0m[32m	Passed: m3 == m1 * m2 (hardcoded matrix) (20/20)
+[0m[0;96m# Final grade: 76/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[31m	Failed: too many args to matrix dims (0/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[31m	Failed: multiplying incompatible matrices (0/5)
+[0m[31m	Failed: adding incompatible matrices (0/4)
+[0m[31m	Failed: tranpose unreadable file (0/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 3/15)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "85 78") (0/3)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "85 98") (0/3)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "56 92") (0/3)
+[0m[31m	Failed: File input: ("60	85" == "60 85") (0/3)
+[0m[31m	Failed: File input: ("52	100" == "52 100") (0/3)
+[0m[31m	Failed: File input: ("55	86" == "55 86") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 3/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 13/43)
+[0mwrong OPERATION or input
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0mwrong OPERATION or input
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0mwrong OPERATION or input
+[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 13/58)
+[0mwrong OPERATION or input
+[31m	Failed: zero matrix (0/2)
+[0m[31m	Failed: ones matrix (0/5)
+[0m[31m	Failed: identity matrix (0/5)
+[0m[31m	Failed: hardcoded matrix (0/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 13/85)
+[0m[32m	Passed: 0 + 0 == 0 (2/2)
+[0m[32m	Passed: X + 0 == X (5/5)
+[0m[32m	Passed: 0 + X == X (5/5)
+[0m[32m	Passed: A + B  == B + A (1/1)
+[0m[32m	Passed: m1 + m2 == m3 (hardcoded matrix) (15/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 41/113)
+[0m[32m	Passed: I * M == M (5/5)
+[0m[32m	Passed: M * I == M (5/5)
+[0m[32m	Passed: 0 * M == 0 (5/5)
+[0m[32m	Passed: m3 == m1 * m2 (hardcoded matrix) (20/20)
+[0m[0;96m# Final grade: 76/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[31m	Failed: multiplying incompatible matrices (0/5)
+[0m[31m	Failed: adding incompatible matrices (0/4)
+[0m[31m	Failed: tranpose unreadable file (0/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 4/15)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "82 71") (0/3)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "66 57") (0/3)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "69 97") (0/3)
+[0m[31m	Failed: File input: ("62	62" == "62 62") (0/3)
+[0m[31m	Failed: File input: ("74	95" == "74 95") (0/3)
+[0m[31m	Failed: File input: ("57	53" == "57 53") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 4/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 14/43)
+[0mwrong OPERATION or input
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0mwrong OPERATION or input
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0mwrong OPERATION or input
+[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 14/58)
+[0mwrong OPERATION or input
+[31m	Failed: zero matrix (0/2)
+[0m[31m	Failed: ones matrix (0/5)
+[0m[31m	Failed: identity matrix (0/5)
+[0m[31m	Failed: hardcoded matrix (0/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 14/85)
+[0m[32m	Passed: 0 + 0 == 0 (2/2)
+[0m[32m	Passed: X + 0 == X (5/5)
+[0m[32m	Passed: 0 + X == X (5/5)
+[0m[32m	Passed: A + B  == B + A (1/1)
+[0m[32m	Passed: m1 + m2 == m3 (hardcoded matrix) (15/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 42/113)
+[0m[32m	Passed: I * M == M (5/5)
+[0m[32m	Passed: M * I == M (5/5)
+[0m[32m	Passed: 0 * M == 0 (5/5)
+[0m[32m	Passed: m3 == m1 * m2 (hardcoded matrix) (20/20)
+[0m[0;96m# Final grade: 77/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+[31m	Failed: Stdin: ("" == "60 65") (0/3)
+[0m./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+[31m	Failed: Stdin: ("" == "80 69") (0/3)
+[0m./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+[31m	Failed: Stdin: ("" == "100 59") (0/3)
+[0m./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+[31m	Failed: File input: ("" == "56 69") (0/3)
+[0m./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+[31m	Failed: File input: ("" == "95 65") (0/3)
+[0m./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+[31m	Failed: File input: ("" == "91 100") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+[31m	Failed: m1 == T(m2) and T(m1) == m2 (0/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 15/43)
+[0m./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0m./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0m./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 15/58)
+[0m./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+[31m	Failed: zero matrix (0/2)
+[0m./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+[31m	Failed: ones matrix (0/5)
+[0m./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+[31m	Failed: identity matrix (0/5)
+[0m./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+[31m	Failed: hardcoded matrix (0/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 15/85)
+[0m./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+[31m	Failed: 0 + 0 == 0 (0/2)
+[0m./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+[31m	Failed: X + 0 == X (0/5)
+[0m./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+[31m	Failed: 0 + X == X (0/5)
+[0m./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+[32m	Passed: A + B  == B + A (1/1)
+[0m./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+[31m	Failed: m1 + m2 == m3 (hardcoded matrix) (0/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 16/113)
+[0m./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+[31m	Failed: I * M == M (0/5)
+[0m./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+[31m	Failed: M * I == M (0/5)
+[0m./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+[31m	Failed: 0 * M == 0 (0/5)
+[0m./matrix: line 78: syntax error near unexpected token `dims'
+./matrix: line 78: `if test (dims $1 = dims $2)'
+[31m	Failed: m3 == m1 * m2 (hardcoded matrix) (0/20)
+[0m[0;96m# Final grade: 16/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[31m	Failed: tranpose unreadable file (0/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 13/15)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "76 74") (0/3)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "89 100") (0/3)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "77 66") (0/3)
+[0m[31m	Failed: File input: ("82	65" == "82 65") (0/3)
+[0m[31m	Failed: File input: ("58	72" == "58 72") (0/3)
+[0m[31m	Failed: File input: ("95	59" == "95 59") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 13/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 23/43)
+[0mwrong OPERATION or input
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0mwrong OPERATION or input
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0mwrong OPERATION or input
+[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 23/58)
+[0mwrong OPERATION or input
+[31m	Failed: zero matrix (0/2)
+[0m[31m	Failed: ones matrix (0/5)
+[0m[31m	Failed: identity matrix (0/5)
+[0m[31m	Failed: hardcoded matrix (0/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 23/85)
+[0m[32m	Passed: 0 + 0 == 0 (2/2)
+[0m[32m	Passed: X + 0 == X (5/5)
+[0m[32m	Passed: 0 + X == X (5/5)
+[0m[32m	Passed: A + B  == B + A (1/1)
+[0m[32m	Passed: m1 + m2 == m3 (hardcoded matrix) (15/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 51/113)
+[0m[32m	Passed: I * M == M (5/5)
+[0m[32m	Passed: M * I == M (5/5)
+[0m[32m	Passed: 0 * M == 0 (5/5)
+[0m[32m	Passed: m3 == m1 * m2 (hardcoded matrix) (20/20)
+[0m[0;96m# Final grade: 86/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[31m	Failed: tranpose unreadable file (0/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 13/15)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "99 95") (0/3)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "55 57") (0/3)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "59 52") (0/3)
+[0m[32m	Passed: File input: ("72 68" == "72 68") (3/3)
+[0m[32m	Passed: File input: ("76 93" == "76 93") (3/3)
+[0m[32m	Passed: File input: ("54 95" == "54 95") (3/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 22/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 32/43)
+[0mwrong OPERATION or input
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0mwrong OPERATION or input
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0mwrong OPERATION or input
+[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 32/58)
+[0mwrong OPERATION or input
+[31m	Failed: zero matrix (0/2)
+[0m[31m	Failed: ones matrix (0/5)
+[0m[31m	Failed: identity matrix (0/5)
+[0m[31m	Failed: hardcoded matrix (0/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 32/85)
+[0m[32m	Passed: 0 + 0 == 0 (2/2)
+[0m[32m	Passed: X + 0 == X (5/5)
+[0m[32m	Passed: 0 + X == X (5/5)
+[0m[32m	Passed: A + B  == B + A (1/1)
+[0m[32m	Passed: m1 + m2 == m3 (hardcoded matrix) (15/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 60/113)
+[0m[32m	Passed: I * M == M (5/5)
+[0m[32m	Passed: M * I == M (5/5)
+[0m[32m	Passed: 0 * M == 0 (5/5)
+[0m[32m	Passed: m3 == m1 * m2 (hardcoded matrix) (20/20)
+[0m[0;96m# Final grade: 95/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[31m	Failed: tranpose unreadable file (0/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 13/15)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "98 54") (0/3)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "83 98") (0/3)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "64 78") (0/3)
+[0m[32m	Passed: File input: ("84 87" == "84 87") (3/3)
+[0m[32m	Passed: File input: ("61 69" == "61 69") (3/3)
+[0m[32m	Passed: File input: ("97 73" == "97 73") (3/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 22/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 32/43)
+[0mwrong OPERATION or input
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0mwrong OPERATION or input
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0mwrong OPERATION or input
+[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 32/58)
+[0mwrong OPERATION or input
+[31m	Failed: zero matrix (0/2)
+[0m[31m	Failed: ones matrix (0/5)
+[0m[31m	Failed: identity matrix (0/5)
+[0m[31m	Failed: hardcoded matrix (0/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 32/85)
+[0m[32m	Passed: 0 + 0 == 0 (2/2)
+[0m[32m	Passed: X + 0 == X (5/5)
+[0m[32m	Passed: 0 + X == X (5/5)
+[0m[32m	Passed: A + B  == B + A (1/1)
+[0m[32m	Passed: m1 + m2 == m3 (hardcoded matrix) (15/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 60/113)
+[0m[32m	Passed: I * M == M (5/5)
+[0m[32m	Passed: M * I == M (5/5)
+[0m[32m	Passed: 0 * M == 0 (5/5)
+[0m[32m	Passed: m3 == m1 * m2 (hardcoded matrix) (20/20)
+[0m[0;96m# Final grade: 95/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[31m	Failed: tranpose unreadable file (0/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 13/15)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "69 96") (0/3)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "83 65") (0/3)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "100 62") (0/3)
+[0m[32m	Passed: File input: ("61 56" == "61 56") (3/3)
+[0m[32m	Passed: File input: ("57 81" == "57 81") (3/3)
+[0m[32m	Passed: File input: ("56 53" == "56 53") (3/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 22/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 32/43)
+[0mwrong OPERATION or input
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0mwrong OPERATION or input
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0mwrong OPERATION or input
+[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 32/58)
+[0mwrong OPERATION or input
+[31m	Failed: zero matrix (0/2)
+[0m[32m	Passed: ones matrix (5/5)
+[0m[32m	Passed: identity matrix (5/5)
+[0m[31m	Failed: hardcoded matrix (0/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 42/85)
+[0m[32m	Passed: 0 + 0 == 0 (2/2)
+[0m[32m	Passed: X + 0 == X (5/5)
+[0m[32m	Passed: 0 + X == X (5/5)
+[0m[32m	Passed: A + B  == B + A (1/1)
+[0m[32m	Passed: m1 + m2 == m3 (hardcoded matrix) (15/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 70/113)
+[0m[32m	Passed: I * M == M (5/5)
+[0m[32m	Passed: M * I == M (5/5)
+[0m[32m	Passed: 0 * M == 0 (5/5)
+[0m[32m	Passed: m3 == m1 * m2 (hardcoded matrix) (20/20)
+[0m[0;96m# Final grade: 105/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[31m	Failed: tranpose unreadable file (0/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 13/15)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "73 65") (0/3)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "88 85") (0/3)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "88 54") (0/3)
+[0m[32m	Passed: File input: ("100 59" == "100 59") (3/3)
+[0m[32m	Passed: File input: ("63 52" == "63 52") (3/3)
+[0m[32m	Passed: File input: ("91 88" == "91 88") (3/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 22/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 32/43)
+[0mwrong OPERATION or input
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0mwrong OPERATION or input
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0mwrong OPERATION or input
+[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 32/58)
+[0mwrong OPERATION or input
+[31m	Failed: zero matrix (0/2)
+[0m[32m	Passed: ones matrix (5/5)
+[0m[32m	Passed: identity matrix (5/5)
+[0m[31m	Failed: hardcoded matrix (0/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 42/85)
+[0m[32m	Passed: 0 + 0 == 0 (2/2)
+[0m[32m	Passed: X + 0 == X (5/5)
+[0m[32m	Passed: 0 + X == X (5/5)
+[0m[32m	Passed: A + B  == B + A (1/1)
+[0m[32m	Passed: m1 + m2 == m3 (hardcoded matrix) (15/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 70/113)
+[0m[32m	Passed: I * M == M (5/5)
+[0m[32m	Passed: M * I == M (5/5)
+[0m[32m	Passed: 0 * M == 0 (5/5)
+[0m[32m	Passed: m3 == m1 * m2 (hardcoded matrix) (20/20)
+[0m[0;96m# Final grade: 105/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[31m	Failed: tranpose unreadable file (0/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 13/15)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "96 56") (0/3)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "89 81") (0/3)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "73 86") (0/3)
+[0m[32m	Passed: File input: ("60 82" == "60 82") (3/3)
+[0m[32m	Passed: File input: ("54 93" == "54 93") (3/3)
+[0m[32m	Passed: File input: ("62 61" == "62 61") (3/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 22/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 32/43)
+[0mwrong OPERATION or input
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0mwrong OPERATION or input
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0mwrong OPERATION or input
+[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 32/58)
+[0mwrong OPERATION or input
+[31m	Failed: zero matrix (0/2)
+[0m[32m	Passed: ones matrix (5/5)
+[0m[32m	Passed: identity matrix (5/5)
+[0m[31m	Failed: hardcoded matrix (0/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 42/85)
+[0m[32m	Passed: 0 + 0 == 0 (2/2)
+[0m[32m	Passed: X + 0 == X (5/5)
+[0m[32m	Passed: 0 + X == X (5/5)
+[0m[32m	Passed: A + B  == B + A (1/1)
+[0m[32m	Passed: m1 + m2 == m3 (hardcoded matrix) (15/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 70/113)
+[0m[32m	Passed: I * M == M (5/5)
+[0m[32m	Passed: M * I == M (5/5)
+[0m[32m	Passed: 0 * M == 0 (5/5)
+[0m[32m	Passed: m3 == m1 * m2 (hardcoded matrix) (20/20)
+[0m[0;96m# Final grade: 105/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[31m	Failed: tranpose unreadable file (0/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 13/15)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "70 54") (0/3)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "51 89") (0/3)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "51 58") (0/3)
+[0m[32m	Passed: File input: ("84 87" == "84 87") (3/3)
+[0m[32m	Passed: File input: ("57 51" == "57 51") (3/3)
+[0m[32m	Passed: File input: ("58 70" == "58 70") (3/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 22/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 32/43)
+[0mwrong OPERATION or input
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0mwrong OPERATION or input
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0mwrong OPERATION or input
+[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 32/58)
+[0mwrong OPERATION or input
+[31m	Failed: zero matrix (0/2)
+[0m[32m	Passed: ones matrix (5/5)
+[0m[32m	Passed: identity matrix (5/5)
+[0m[32m	Passed: hardcoded matrix (15/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 57/85)
+[0m[32m	Passed: 0 + 0 == 0 (2/2)
+[0m[32m	Passed: X + 0 == X (5/5)
+[0m[32m	Passed: 0 + X == X (5/5)
+[0m[32m	Passed: A + B  == B + A (1/1)
+[0m[32m	Passed: m1 + m2 == m3 (hardcoded matrix) (15/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 85/113)
+[0m[32m	Passed: I * M == M (5/5)
+[0m[32m	Passed: M * I == M (5/5)
+[0m[32m	Passed: 0 * M == 0 (5/5)
+[0m[32m	Passed: m3 == m1 * m2 (hardcoded matrix) (20/20)
+[0m[0;96m# Final grade: 120/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[31m	Failed: tranpose unreadable file (0/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 13/15)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "55 82") (0/3)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "65 82") (0/3)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "55 74") (0/3)
+[0m[32m	Passed: File input: ("70 55" == "70 55") (3/3)
+[0m[32m	Passed: File input: ("85 63" == "85 63") (3/3)
+[0m[32m	Passed: File input: ("67 83" == "67 83") (3/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 22/33)
+[0m./matrix: line 221: ![: command not found
+./matrix: line 221: ![: command not found
+[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 32/43)
+[0mwrong OPERATION or input
+./matrix: line 221: ![: command not found
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0m./matrix: line 221: ![: command not found
+wrong OPERATION or input
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0mwrong OPERATION or input
+./matrix: line 221: ![: command not found
+[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 32/58)
+[0mwrong OPERATION or input
+[31m	Failed: zero matrix (0/2)
+[0m[32m	Passed: ones matrix (5/5)
+[0m[32m	Passed: identity matrix (5/5)
+[0m[32m	Passed: hardcoded matrix (15/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 57/85)
+[0m[32m	Passed: 0 + 0 == 0 (2/2)
+[0m[32m	Passed: X + 0 == X (5/5)
+[0m[32m	Passed: 0 + X == X (5/5)
+[0m[32m	Passed: A + B  == B + A (1/1)
+[0m[32m	Passed: m1 + m2 == m3 (hardcoded matrix) (15/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 85/113)
+[0m[32m	Passed: I * M == M (5/5)
+[0m[32m	Passed: M * I == M (5/5)
+[0m[32m	Passed: 0 * M == 0 (5/5)
+[0m[32m	Passed: m3 == m1 * m2 (hardcoded matrix) (20/20)
+[0m[0;96m# Final grade: 120/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[31m	Failed: tranpose unreadable file (0/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 13/15)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "54 54") (0/3)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "95 85") (0/3)
+[0mwrong OPERATION or input
+[31m	Failed: Stdin: ("" == "97 91") (0/3)
+[0m[32m	Passed: File input: ("89 65" == "89 65") (3/3)
+[0m[32m	Passed: File input: ("94 82" == "94 82") (3/3)
+[0m[32m	Passed: File input: ("97 87" == "97 87") (3/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 22/33)
+[0m./matrix: line 221: ![: command not found
+./matrix: line 221: ![: command not found
+[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 32/43)
+[0mwrong OPERATION or input
+./matrix: line 221: ![: command not found
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0mwrong OPERATION or input
+./matrix: line 221: ![: command not found
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0mwrong OPERATION or input
+./matrix: line 221: ![: command not found
+[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 32/58)
+[0mwrong OPERATION or input
+[31m	Failed: zero matrix (0/2)
+[0m[32m	Passed: ones matrix (5/5)
+[0m[32m	Passed: identity matrix (5/5)
+[0m[32m	Passed: hardcoded matrix (15/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 57/85)
+[0m[32m	Passed: 0 + 0 == 0 (2/2)
+[0m[32m	Passed: X + 0 == X (5/5)
+[0m[32m	Passed: 0 + X == X (5/5)
+[0m[32m	Passed: A + B  == B + A (1/1)
+[0m[32m	Passed: m1 + m2 == m3 (hardcoded matrix) (15/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 85/113)
+[0m[32m	Passed: I * M == M (5/5)
+[0m[32m	Passed: M * I == M (5/5)
+[0m[32m	Passed: 0 * M == 0 (5/5)
+[0m[32m	Passed: m3 == m1 * m2 (hardcoded matrix) (20/20)
+[0m[0;96m# Final grade: 120/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[31m	Failed: tranpose unreadable file (0/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 13/15)
+[0m./matrix: line 212: /dev/stdin: Permission denied
+wrong OPERATION or input
+[31m	Failed: Stdin: ("" == "82 57") (0/3)
+[0m./matrix: line 212: /dev/stdin: Permission denied
+wrong OPERATION or input
+[31m	Failed: Stdin: ("" == "85 96") (0/3)
+[0m./matrix: line 212: /dev/stdin: Permission denied
+wrong OPERATION or input
+[31m	Failed: Stdin: ("" == "59 92") (0/3)
+[0m./matrix: line 212: /tmp/p1grading_lBaQN: Permission denied
+[32m	Passed: File input: ("66 75" == "66 75") (3/3)
+[0m./matrix: line 212: /tmp/p1grading_lBaQN: Permission denied
+[32m	Passed: File input: ("87 68" == "87 68") (3/3)
+[0m./matrix: line 212: /tmp/p1grading_lBaQN: Permission denied
+[32m	Passed: File input: ("84 100" == "84 100") (3/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 22/33)
+[0m./matrix: line 212: /tmp/p1grading_2P9sN: Permission denied
+./matrix: line 222: ![: command not found
+./matrix: line 212: /tmp/p1grading_lBaQN: Permission denied
+./matrix: line 222: ![: command not found
+[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 32/43)
+[0m./matrix: line 212: /tmp/p1grading_lBaQN: Permission denied
+./matrix: line 212: /dev/stdin: Permission denied
+wrong OPERATION or input
+./matrix: line 222: ![: command not found
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0m./matrix: line 212: /dev/stdin: Permission denied
+./matrix: line 212: /tmp/p1grading_lBaQN: Permission denied
+wrong OPERATION or input
+./matrix: line 222: ![: command not found
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0m./matrix: line 212: /tmp/p1grading_lBaQN: Permission denied
+./matrix: line 212: /dev/stdin: Permission denied
+wrong OPERATION or input
+./matrix: line 222: ![: command not found
+[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 32/58)
+[0m./matrix: line 212: /dev/stdin: Permission denied
+wrong OPERATION or input
+[31m	Failed: zero matrix (0/2)
+[0m./matrix: line 212: /tmp/p1grading_lBaQN: Permission denied
+[32m	Passed: ones matrix (5/5)
+[0m./matrix: line 212: /tmp/p1grading_lBaQN: Permission denied
+[32m	Passed: identity matrix (5/5)
+[0m./matrix: line 212: /tmp/p1grading_lBaQN: Permission denied
+[32m	Passed: hardcoded matrix (15/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 57/85)
+[0m./matrix: line 212: /tmp/p1grading_lBaQN: Permission denied
+[32m	Passed: 0 + 0 == 0 (2/2)
+[0m./matrix: line 212: /tmp/p1grading_2P9sN: Permission denied
+[32m	Passed: X + 0 == X (5/5)
+[0m./matrix: line 212: /tmp/p1grading_lBaQN: Permission denied
+[32m	Passed: 0 + X == X (5/5)
+[0m./matrix: line 212: /tmp/p1grading_lBaQN: Permission denied
+./matrix: line 212: /tmp/p1grading_2P9sN: Permission denied
+[32m	Passed: A + B  == B + A (1/1)
+[0m./matrix: line 212: /tmp/p1grading_lBaQN: Permission denied
+[32m	Passed: m1 + m2 == m3 (hardcoded matrix) (15/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 85/113)
+[0m./matrix: line 212: /tmp/p1grading_lBaQN: Permission denied
+[32m	Passed: I * M == M (5/5)
+[0m./matrix: line 212: /tmp/p1grading_2P9sN: Permission denied
+[32m	Passed: M * I == M (5/5)
+[0m./matrix: line 212: /tmp/p1grading_lBaQN: Permission denied
+[32m	Passed: 0 * M == 0 (5/5)
+[0m./matrix: line 212: /tmp/p1grading_lBaQN: Permission denied
+[32m	Passed: m3 == m1 * m2 (hardcoded matrix) (20/20)
+[0m[0;96m# Final grade: 120/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[31m	Failed: tranpose unreadable file (0/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 13/15)
+[0m./matrix: line 212: /dev/stdin: Permission denied
+wrong OPERATION or input
+[31m	Failed: Stdin: ("" == "64 85") (0/3)
+[0m./matrix: line 212: /dev/stdin: Permission denied
+wrong OPERATION or input
+[31m	Failed: Stdin: ("" == "93 83") (0/3)
+[0m./matrix: line 212: /dev/stdin: Permission denied
+wrong OPERATION or input
+[31m	Failed: Stdin: ("" == "61 64") (0/3)
+[0m./matrix: line 212: /tmp/p1grading_0pLGM: Permission denied
+[32m	Passed: File input: ("71 56" == "71 56") (3/3)
+[0m./matrix: line 212: /tmp/p1grading_0pLGM: Permission denied
+[32m	Passed: File input: ("82 81" == "82 81") (3/3)
+[0m./matrix: line 212: /tmp/p1grading_0pLGM: Permission denied
+[32m	Passed: File input: ("99 73" == "99 73") (3/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 22/33)
+[0m./matrix: line 212: /tmp/p1grading_ufhNI: Permission denied
+./matrix: line 222: ![: command not found
+./matrix: line 212: /tmp/p1grading_0pLGM: Permission denied
+./matrix: line 222: ![: command not found
+[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 32/43)
+[0m./matrix: line 212: /tmp/p1grading_0pLGM: Permission denied
+./matrix: line 212: /dev/stdin: Permission denied
+wrong OPERATION or input
+./matrix: line 222: ![: command not found
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0m./matrix: line 212: /dev/stdin: Permission denied
+./matrix: line 212: /tmp/p1grading_0pLGM: Permission denied
+wrong OPERATION or input
+./matrix: line 222: ![: command not found
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0m./matrix: line 212: /tmp/p1grading_0pLGM: Permission denied
+./matrix: line 212: /dev/stdin: Permission denied
+wrong OPERATION or input
+./matrix: line 222: ![: command not found
+[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 32/58)
+[0m./matrix: line 212: /dev/stdin: Permission denied
+wrong OPERATION or input
+[31m	Failed: zero matrix (0/2)
+[0m./matrix: line 212: /tmp/p1grading_0pLGM: Permission denied
+[32m	Passed: ones matrix (5/5)
+[0m./matrix: line 212: /tmp/p1grading_0pLGM: Permission denied
+[32m	Passed: identity matrix (5/5)
+[0m./matrix: line 212: /tmp/p1grading_0pLGM: Permission denied
+[32m	Passed: hardcoded matrix (15/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 57/85)
+[0m./matrix: line 212: /tmp/p1grading_0pLGM: Permission denied
+[32m	Passed: 0 + 0 == 0 (2/2)
+[0m./matrix: line 212: /tmp/p1grading_ufhNI: Permission denied
+[32m	Passed: X + 0 == X (5/5)
+[0m./matrix: line 212: /tmp/p1grading_0pLGM: Permission denied
+[32m	Passed: 0 + X == X (5/5)
+[0m./matrix: line 212: /tmp/p1grading_0pLGM: Permission denied
+./matrix: line 212: /tmp/p1grading_ufhNI: Permission denied
+[32m	Passed: A + B  == B + A (1/1)
+[0m./matrix: line 212: /tmp/p1grading_0pLGM: Permission denied
+[32m	Passed: m1 + m2 == m3 (hardcoded matrix) (15/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 85/113)
+[0m./matrix: line 212: /tmp/p1grading_0pLGM: Permission denied
+[32m	Passed: I * M == M (5/5)
+[0m./matrix: line 212: /tmp/p1grading_ufhNI: Permission denied
+[32m	Passed: M * I == M (5/5)
+[0m./matrix: line 212: /tmp/p1grading_0pLGM: Permission denied
+[32m	Passed: 0 * M == 0 (5/5)
+[0m./matrix: line 212: /tmp/p1grading_0pLGM: Permission denied
+[32m	Passed: m3 == m1 * m2 (hardcoded matrix) (20/20)
+[0m[0;96m# Final grade: 120/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m./matrix: line 209: [dims: command not found
+./matrix: line 209: [dims: command not found
+./matrix: line 209: [dims: command not found
+./matrix: line 223: [dims: command not found
+./matrix: line 223: [dims: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+[31m	Failed: Stdin: ("" == "94 88") (0/3)
+[0m./matrix: line 209: [dims: command not found
+./matrix: line 209: [dims: command not found
+./matrix: line 209: [dims: command not found
+./matrix: line 223: [dims: command not found
+./matrix: line 223: [dims: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+[31m	Failed: Stdin: ("" == "57 69") (0/3)
+[0m./matrix: line 209: [dims: command not found
+./matrix: line 209: [dims: command not found
+./matrix: line 209: [dims: command not found
+./matrix: line 223: [dims: command not found
+./matrix: line 223: [dims: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+[31m	Failed: Stdin: ("" == "87 72") (0/3)
+[0m./matrix: line 209: [dims: command not found
+./matrix: line 209: [dims: command not found
+./matrix: line 209: [dims: command not found
+./matrix: line 223: [dims: command not found
+./matrix: line 223: [dims: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+[31m	Failed: File input: ("" == "92 91") (0/3)
+[0m./matrix: line 209: [dims: command not found
+./matrix: line 209: [dims: command not found
+./matrix: line 209: [dims: command not found
+./matrix: line 223: [dims: command not found
+./matrix: line 223: [dims: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+[31m	Failed: File input: ("" == "89 66") (0/3)
+[0m./matrix: line 209: [dims: command not found
+./matrix: line 209: [dims: command not found
+./matrix: line 209: [dims: command not found
+./matrix: line 223: [dims: command not found
+./matrix: line 223: [dims: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+[31m	Failed: File input: ("" == "82 60") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m./matrix: line 209: [transpose: command not found
+./matrix: line 209: [transpose: command not found
+./matrix: line 209: [transpose: command not found
+./matrix: line 223: [transpose: command not found
+./matrix: line 223: [transpose: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+[31m	Failed: m1 == T(m2) and T(m1) == m2 (0/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 15/43)
+[0m./matrix: line 209: [transpose: command not found
+./matrix: line 209: [transpose: command not found
+./matrix: line 209: [transpose: command not found
+./matrix: line 209: [transpose: command not found
+./matrix: line 223: [transpose: command not found
+./matrix: line 209: [transpose: command not found
+./matrix: line 223: [transpose: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+./matrix: line 209: [transpose: command not found
+./matrix: line 223: [transpose: command not found
+./matrix: line 223: [transpose: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0m./matrix: line 209: [transpose: command not found
+./matrix: line 209: [transpose: command not found
+./matrix: line 209: [transpose: command not found
+./matrix: line 209: [transpose: command not found
+./matrix: line 223: [transpose: command not found
+./matrix: line 209: [transpose: command not found
+./matrix: line 223: [transpose: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+./matrix: line 209: [transpose: command not found
+./matrix: line 223: [transpose: command not found
+./matrix: line 223: [transpose: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0m./matrix: line 209: [transpose: command not found
+./matrix: line 209: [transpose: command not found
+./matrix: line 209: [transpose: command not found
+./matrix: line 209: [transpose: command not found
+./matrix: line 223: [transpose: command not found
+./matrix: line 209: [transpose: command not found
+./matrix: line 223: [transpose: command not found
+./matrix: line 209: [transpose: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+./matrix: line 223: [transpose: command not found
+./matrix: line 223: [transpose: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 15/58)
+[0m./matrix: line 209: [mean: command not found
+./matrix: line 209: [mean: command not found
+./matrix: line 209: [mean: command not found
+./matrix: line 223: [mean: command not found
+./matrix: line 223: [mean: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+[31m	Failed: zero matrix (0/2)
+[0m./matrix: line 209: [mean: command not found
+./matrix: line 209: [mean: command not found
+./matrix: line 209: [mean: command not found
+./matrix: line 223: [mean: command not found
+./matrix: line 223: [mean: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+[31m	Failed: ones matrix (0/5)
+[0m./matrix: line 209: [mean: command not found
+./matrix: line 209: [mean: command not found
+./matrix: line 209: [mean: command not found
+./matrix: line 223: [mean: command not found
+./matrix: line 223: [mean: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+[31m	Failed: identity matrix (0/5)
+[0m./matrix: line 209: [mean: command not found
+./matrix: line 209: [mean: command not found
+./matrix: line 209: [mean: command not found
+./matrix: line 223: [mean: command not found
+./matrix: line 223: [mean: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+[31m	Failed: hardcoded matrix (0/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 15/85)
+[0m./matrix: line 209: [add: command not found
+./matrix: line 209: [add: command not found
+./matrix: line 209: [add: command not found
+./matrix: line 223: [add: command not found
+./matrix: line 223: [add: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+[31m	Failed: 0 + 0 == 0 (0/2)
+[0m./matrix: line 209: [add: command not found
+./matrix: line 209: [add: command not found
+./matrix: line 209: [add: command not found
+./matrix: line 223: [add: command not found
+./matrix: line 223: [add: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+[31m	Failed: X + 0 == X (0/5)
+[0m./matrix: line 209: [add: command not found
+./matrix: line 209: [add: command not found
+./matrix: line 209: [add: command not found
+./matrix: line 223: [add: command not found
+./matrix: line 223: [add: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+[31m	Failed: 0 + X == X (0/5)
+[0m./matrix: line 209: [add: command not found
+./matrix: line 209: [add: command not found
+./matrix: line 209: [add: command not found
+./matrix: line 223: [add: command not found
+./matrix: line 223: [add: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+./matrix: line 209: [add: command not found
+./matrix: line 209: [add: command not found
+./matrix: line 209: [add: command not found
+./matrix: line 223: [add: command not found
+./matrix: line 223: [add: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+[32m	Passed: A + B  == B + A (1/1)
+[0m./matrix: line 209: [add: command not found
+./matrix: line 209: [add: command not found
+./matrix: line 209: [add: command not found
+./matrix: line 223: [add: command not found
+./matrix: line 223: [add: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+[31m	Failed: m1 + m2 == m3 (hardcoded matrix) (0/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 16/113)
+[0m./matrix: line 209: [multiply: command not found
+./matrix: line 209: [multiply: command not found
+./matrix: line 209: [multiply: command not found
+./matrix: line 223: [multiply: command not found
+./matrix: line 223: [multiply: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+[31m	Failed: I * M == M (0/5)
+[0m./matrix: line 209: [multiply: command not found
+./matrix: line 209: [multiply: command not found
+./matrix: line 209: [multiply: command not found
+./matrix: line 223: [multiply: command not found
+./matrix: line 223: [multiply: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+[31m	Failed: M * I == M (0/5)
+[0m./matrix: line 209: [multiply: command not found
+./matrix: line 209: [multiply: command not found
+./matrix: line 209: [multiply: command not found
+./matrix: line 223: [multiply: command not found
+./matrix: line 223: [multiply: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+[31m	Failed: 0 * M == 0 (0/5)
+[0m./matrix: line 209: [multiply: command not found
+./matrix: line 209: [multiply: command not found
+./matrix: line 209: [multiply: command not found
+./matrix: line 223: [multiply: command not found
+./matrix: line 223: [multiply: command not found
+./matrix: line 261: syntax error near unexpected token `else'
+./matrix: line 261: `else'
+[31m	Failed: m3 == m1 * m2 (hardcoded matrix) (0/20)
+[0m[0;96m# Final grade: 16/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+[31m	Failed: Stdin: ("" == "78 78") (0/3)
+[0m./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+[31m	Failed: Stdin: ("" == "75 86") (0/3)
+[0m./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+[31m	Failed: Stdin: ("" == "98 64") (0/3)
+[0m./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+[31m	Failed: File input: ("" == "84 65") (0/3)
+[0m./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+[31m	Failed: File input: ("" == "59 58") (0/3)
+[0m./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+[31m	Failed: File input: ("" == "60 87") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m./matrix: line 19: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+[31m	Failed: m1 == T(m2) and T(m1) == m2 (0/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 15/43)
+[0m./matrix: line 19: $1: ambiguous redirect
+./matrix: line 19: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: `else'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0m./matrix: line 19: $1: ambiguous redirect
+./matrix: line 19: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0m./matrix: line 19: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+./matrix: line 19: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 15/58)
+[0m./matrix: line 53: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+[31m	Failed: zero matrix (0/2)
+[0m./matrix: line 53: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+[31m	Failed: ones matrix (0/5)
+[0m./matrix: line 53: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+[31m	Failed: identity matrix (0/5)
+[0m./matrix: line 53: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+[31m	Failed: hardcoded matrix (0/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 15/85)
+[0m./matrix: line 97: $1: ambiguous redirect
+./matrix: line 97: $2: ambiguous redirect
+./matrix: line 97: $2: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+[31m	Failed: 0 + 0 == 0 (0/2)
+[0m./matrix: line 97: $1: ambiguous redirect
+./matrix: line 97: $2: ambiguous redirect
+./matrix: line 97: $2: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+[31m	Failed: X + 0 == X (0/5)
+[0m./matrix: line 97: $1: ambiguous redirect
+./matrix: line 97: $2: ambiguous redirect
+./matrix: line 97: $2: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+[31m	Failed: 0 + X == X (0/5)
+[0m./matrix: line 97: $1: ambiguous redirect
+./matrix: line 97: $2: ambiguous redirect
+./matrix: line 97: $2: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+./matrix: line 97: $1: ambiguous redirect
+./matrix: line 97: $2: ambiguous redirect
+./matrix: line 97: $2: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+[32m	Passed: A + B  == B + A (1/1)
+[0m./matrix: line 97: $1: ambiguous redirect
+./matrix: line 97: $2: ambiguous redirect
+./matrix: line 97: $2: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+[31m	Failed: m1 + m2 == m3 (hardcoded matrix) (0/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 16/113)
+[0m./matrix: line 152: $1: ambiguous redirect
+./matrix: line 152: $2: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+[31m	Failed: I * M == M (0/5)
+[0m./matrix: line 152: $1: ambiguous redirect
+./matrix: line 152: $2: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+[31m	Failed: M * I == M (0/5)
+[0m./matrix: line 152: $1: ambiguous redirect
+./matrix: line 152: $2: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+[31m	Failed: 0 * M == 0 (0/5)
+[0m./matrix: line 152: $1: ambiguous redirect
+./matrix: line 152: $2: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 262: syntax error near unexpected token `else'
+./matrix: line 262: `else'
+[31m	Failed: m3 == m1 * m2 (hardcoded matrix) (0/20)
+[0m[0;96m# Final grade: 16/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: Stdin: ("" == "62 69") (0/3)
+[0m./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: Stdin: ("" == "52 54") (0/3)
+[0m./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: Stdin: ("" == "98 61") (0/3)
+[0m./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: File input: ("" == "63 79") (0/3)
+[0m./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: File input: ("" == "69 52") (0/3)
+[0m./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: File input: ("" == "92 89") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m./matrix: line 19: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: m1 == T(m2) and T(m1) == m2 (0/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 15/43)
+[0m./matrix: line 19: $1: ambiguous redirect
+./matrix: line 19: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+wrong OPERATION or input
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0m./matrix: line 19: $1: ambiguous redirect
+./matrix: line 19: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+wrong OPERATION or input
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0m./matrix: line 19: $1: ambiguous redirect
+./matrix: line 19: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 15/58)
+[0m./matrix: line 53: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: zero matrix (0/2)
+[0m./matrix: line 53: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: ones matrix (0/5)
+[0m./matrix: line 53: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: identity matrix (0/5)
+[0m./matrix: line 53: $1: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: hardcoded matrix (0/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 15/85)
+[0m./matrix: line 97: $1: ambiguous redirect
+./matrix: line 97: $2: ambiguous redirect
+./matrix: line 97: $2: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: 0 + 0 == 0 (0/2)
+[0m./matrix: line 97: $1: ambiguous redirect
+./matrix: line 97: $2: ambiguous redirect
+./matrix: line 97: $2: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: X + 0 == X (0/5)
+[0m./matrix: line 97: $1: ambiguous redirect
+./matrix: line 97: $2: ambiguous redirect
+./matrix: line 97: $2: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: 0 + X == X (0/5)
+[0m./matrix: line 97: $1: ambiguous redirect
+./matrix: line 97: $2: ambiguous redirect
+./matrix: line 97: $2: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+./matrix: line 97: $1: ambiguous redirect
+./matrix: line 97: $2: ambiguous redirect
+./matrix: line 97: $2: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[32m	Passed: A + B  == B + A (1/1)
+[0m./matrix: line 97: $1: ambiguous redirect
+./matrix: line 97: $2: ambiguous redirect
+./matrix: line 97: $2: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: m1 + m2 == m3 (hardcoded matrix) (0/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 16/113)
+[0m./matrix: line 152: $1: ambiguous redirect
+./matrix: line 152: $2: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: I * M == M (0/5)
+[0m./matrix: line 152: $1: ambiguous redirect
+./matrix: line 152: $2: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: M * I == M (0/5)
+[0m./matrix: line 152: $1: ambiguous redirect
+./matrix: line 152: $2: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: 0 * M == 0 (0/5)
+[0m./matrix: line 152: $1: ambiguous redirect
+./matrix: line 152: $2: ambiguous redirect
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: m3 == m1 * m2 (hardcoded matrix) (0/20)
+[0m[0;96m# Final grade: 16/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m./matrix: line 209: funt: command not found
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: Stdin: ("" == "80 91") (0/3)
+[0m./matrix: line 209: funt: command not found
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: Stdin: ("" == "85 54") (0/3)
+[0m./matrix: line 209: funt: command not found
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: Stdin: ("" == "63 84") (0/3)
+[0m./matrix: line 209: funt: command not found
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: File input: ("" == "94 94") (0/3)
+[0m./matrix: line 209: funt: command not found
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: File input: ("" == "71 69") (0/3)
+[0m./matrix: line 209: funt: command not found
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: File input: ("" == "63 63") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m./matrix: line 209: funt: command not found
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: m1 == T(m2) and T(m1) == m2 (0/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 15/43)
+[0m./matrix: line 209: funt: command not found
+./matrix: line 209: funt: command not found
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0m./matrix: line 209: funt: command not found
+./matrix: line 209: funt: command not found
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 210: [: missing `]'
+wrong OPERATION or input
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0m./matrix: line 209: funt: command not found
+./matrix: line 209: funt: command not found
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 15/58)
+[0m./matrix: line 209: funt: command not found
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: zero matrix (0/2)
+[0m./matrix: line 209: funt: command not found
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: ones matrix (0/5)
+[0m./matrix: line 209: funt: command not found
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: identity matrix (0/5)
+[0m./matrix: line 209: funt: command not found
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: hardcoded matrix (0/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 15/85)
+[0m./matrix: line 209: funt: command not found
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: 0 + 0 == 0 (0/2)
+[0m./matrix: line 209: funt: command not found
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: X + 0 == X (0/5)
+[0m./matrix: line 209: funt: command not found
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: 0 + X == X (0/5)
+[0m./matrix: line 209: funt: command not found
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+./matrix: line 209: funt: command not found
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[32m	Passed: A + B  == B + A (1/1)
+[0m./matrix: line 209: funt: command not found
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: m1 + m2 == m3 (hardcoded matrix) (0/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 16/113)
+[0m./matrix: line 209: funt: command not found
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: I * M == M (0/5)
+[0m./matrix: line 209: funt: command not found
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: M * I == M (0/5)
+[0m./matrix: line 209: funt: command not found
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: 0 * M == 0 (0/5)
+[0m./matrix: line 209: funt: command not found
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: m3 == m1 * m2 (hardcoded matrix) (0/20)
+[0m[0;96m# Final grade: 16/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: Stdin: ("" == "71 76") (0/3)
+[0m./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: Stdin: ("" == "98 65") (0/3)
+[0m./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: Stdin: ("" == "76 75") (0/3)
+[0m./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: File input: ("" == "73 87") (0/3)
+[0m./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: File input: ("" == "98 52") (0/3)
+[0m./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: File input: ("" == "63 64") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: m1 == T(m2) and T(m1) == m2 (0/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 15/43)
+[0m./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 210: [: missing `]'
+wrong OPERATION or input
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0m./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0m./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+wrong OPERATION or input
+[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 15/58)
+[0m./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: zero matrix (0/2)
+[0m./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: ones matrix (0/5)
+[0m./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: identity matrix (0/5)
+[0m./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: hardcoded matrix (0/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 15/85)
+[0m./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: 0 + 0 == 0 (0/2)
+[0m./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: X + 0 == X (0/5)
+[0m./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: 0 + X == X (0/5)
+[0m./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[32m	Passed: A + B  == B + A (1/1)
+[0m./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: m1 + m2 == m3 (hardcoded matrix) (0/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 16/113)
+[0m./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: I * M == M (0/5)
+[0m./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: M * I == M (0/5)
+[0m./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: 0 * M == 0 (0/5)
+[0m./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 210: [: missing `]'
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: m3 == m1 * m2 (hardcoded matrix) (0/20)
+[0m[0;96m# Final grade: 16/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m./matrix: line 217: [-r: command not found
+unreadable input
+[31m	Failed: Stdin: ("" == "86 77") (0/3)
+[0m./matrix: line 217: [-r: command not found
+unreadable input
+[31m	Failed: Stdin: ("" == "99 62") (0/3)
+[0m./matrix: line 217: [-r: command not found
+unreadable input
+[31m	Failed: Stdin: ("" == "82 71") (0/3)
+[0m./matrix: line 217: [-r: command not found
+unreadable input
+[31m	Failed: File input: ("" == "79 86") (0/3)
+[0m./matrix: line 217: [-r: command not found
+unreadable input
+[31m	Failed: File input: ("" == "83 86") (0/3)
+[0m./matrix: line 217: [-r: command not found
+unreadable input
+[31m	Failed: File input: ("" == "100 79") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m./matrix: line 217: [-r: command not found
+unreadable input
+[31m	Failed: m1 == T(m2) and T(m1) == m2 (0/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 15/43)
+[0m./matrix: line 217: [-r: command not found
+./matrix: line 217: [-r: command not found
+unreadable input
+unreadable input
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0m./matrix: line 217: [-r: command not found
+unreadable input
+./matrix: line 217: [-r: command not found
+unreadable input
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0m./matrix: line 217: [-r: command not found
+./matrix: line 217: [-r: command not found
+unreadable input
+unreadable input
+[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 15/58)
+[0m./matrix: line 217: [-r: command not found
+unreadable input
+[31m	Failed: zero matrix (0/2)
+[0m./matrix: line 217: [-r: command not found
+unreadable input
+[31m	Failed: ones matrix (0/5)
+[0m./matrix: line 217: [-r: command not found
+unreadable input
+[31m	Failed: identity matrix (0/5)
+[0m./matrix: line 217: [-r: command not found
+unreadable input
+[31m	Failed: hardcoded matrix (0/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 15/85)
+[0m./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: 0 + 0 == 0 (0/2)
+[0m./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: X + 0 == X (0/5)
+[0m./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: 0 + X == X (0/5)
+[0m./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[32m	Passed: A + B  == B + A (1/1)
+[0m./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: m1 + m2 == m3 (hardcoded matrix) (0/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 16/113)
+[0m./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: I * M == M (0/5)
+[0m./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: M * I == M (0/5)
+[0m./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: 0 * M == 0 (0/5)
+[0m./matrix: line 224: [: missing `]'
+./matrix: line 224: [: missing `]'
+wrong OPERATION or input
+[31m	Failed: m3 == m1 * m2 (hardcoded matrix) (0/20)
+[0m[0;96m# Final grade: 16/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[31m	Failed: tranpose unreadable file (0/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 13/15)
+[0m./matrix: line 217: ![-r: command not found
+./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+[31m	Failed: Stdin: ("" == "98 65") (0/3)
+[0m./matrix: line 217: ![-r: command not found
+./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+[31m	Failed: Stdin: ("" == "92 81") (0/3)
+[0m./matrix: line 217: ![-r: command not found
+./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+[31m	Failed: Stdin: ("" == "80 72") (0/3)
+[0m./matrix: line 217: ![-r: command not found
+./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+[31m	Failed: File input: ("" == "56 65") (0/3)
+[0m./matrix: line 217: ![-r: command not found
+./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+[31m	Failed: File input: ("" == "79 65") (0/3)
+[0m./matrix: line 217: ![-r: command not found
+./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+[31m	Failed: File input: ("" == "77 60") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 13/33)
+[0m./matrix: line 217: ![-r: command not found
+./matrix: line 19: $1: ambiguous redirect
+[31m	Failed: m1 == T(m2) and T(m1) == m2 (0/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 13/43)
+[0m./matrix: line 217: ![-r: command not found
+./matrix: line 217: ![-r: command not found
+./matrix: line 19: $1: ambiguous redirect
+./matrix: line 19: $1: ambiguous redirect
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0m./matrix: line 217: ![-r: command not found
+./matrix: line 217: ![-r: command not found
+./matrix: line 19: $1: ambiguous redirect
+./matrix: line 19: $1: ambiguous redirect
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0m./matrix: line 217: ![-r: command not found
+./matrix: line 217: ![-r: command not found
+./matrix: line 19: $1: ambiguous redirect
+./matrix: line 19: $1: ambiguous redirect
+[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 13/58)
+[0m./matrix: line 217: ![-r: command not found
+./matrix: line 53: $1: ambiguous redirect
+[31m	Failed: zero matrix (0/2)
+[0m./matrix: line 217: ![-r: command not found
+./matrix: line 53: $1: ambiguous redirect
+[31m	Failed: ones matrix (0/5)
+[0m./matrix: line 217: ![-r: command not found
+./matrix: line 53: $1: ambiguous redirect
+[31m	Failed: identity matrix (0/5)
+[0m./matrix: line 217: ![-r: command not found
+./matrix: line 53: $1: ambiguous redirect
+[31m	Failed: hardcoded matrix (0/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 13/85)
+[0m[32m	Passed: 0 + 0 == 0 (2/2)
+[0m[32m	Passed: X + 0 == X (5/5)
+[0m[32m	Passed: 0 + X == X (5/5)
+[0m[32m	Passed: A + B  == B + A (1/1)
+[0m[32m	Passed: m1 + m2 == m3 (hardcoded matrix) (15/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 41/113)
+[0m[32m	Passed: I * M == M (5/5)
+[0m[32m	Passed: M * I == M (5/5)
+[0m[32m	Passed: 0 * M == 0 (5/5)
+[0m[32m	Passed: m3 == m1 * m2 (hardcoded matrix) (20/20)
+[0m[0;96m# Final grade: 76/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+[31m	Failed: Stdin: ("" == "74 91") (0/3)
+[0m./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+[31m	Failed: Stdin: ("" == "81 94") (0/3)
+[0m./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+[31m	Failed: Stdin: ("" == "67 55") (0/3)
+[0m./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+[31m	Failed: File input: ("" == "63 72") (0/3)
+[0m./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+[31m	Failed: File input: ("" == "65 83") (0/3)
+[0m./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+[31m	Failed: File input: ("" == "64 73") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m./matrix: line 19: $1: ambiguous redirect
+[31m	Failed: m1 == T(m2) and T(m1) == m2 (0/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 15/43)
+[0m./matrix: line 19: $1: ambiguous redirect
+./matrix: line 19: $1: ambiguous redirect
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0m./matrix: line 19: $1: ambiguous redirect
+./matrix: line 19: $1: ambiguous redirect
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0m./matrix: line 19: $1: ambiguous redirect
+./matrix: line 19: $1: ambiguous redirect
+[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 15/58)
+[0m./matrix: line 53: $1: ambiguous redirect
+[31m	Failed: zero matrix (0/2)
+[0m./matrix: line 53: $1: ambiguous redirect
+[31m	Failed: ones matrix (0/5)
+[0m./matrix: line 53: $1: ambiguous redirect
+[31m	Failed: identity matrix (0/5)
+[0m./matrix: line 53: $1: ambiguous redirect
+[31m	Failed: hardcoded matrix (0/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 15/85)
+[0m[32m	Passed: 0 + 0 == 0 (2/2)
+[0m[32m	Passed: X + 0 == X (5/5)
+[0m[32m	Passed: 0 + X == X (5/5)
+[0m[32m	Passed: A + B  == B + A (1/1)
+[0m[32m	Passed: m1 + m2 == m3 (hardcoded matrix) (15/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 43/113)
+[0m[32m	Passed: I * M == M (5/5)
+[0m[32m	Passed: M * I == M (5/5)
+[0m[32m	Passed: 0 * M == 0 (5/5)
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+[31m	Failed: Stdin: ("" == "89 69") (0/3)
+[0m./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+[31m	Failed: Stdin: ("" == "80 73") (0/3)
+[0m./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+[31m	Failed: Stdin: ("" == "54 75") (0/3)
+[0m./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+[31m	Failed: File input: ("" == "69 83") (0/3)
+[0m./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+[31m	Failed: File input: ("" == "93 73") (0/3)
+[0m./matrix: line 2: $1: ambiguous redirect
+./matrix: line 2: $1: ambiguous redirect
+[31m	Failed: File input: ("" == "80 75") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m./matrix: line 19: $1: ambiguous redirect
+[31m	Failed: m1 == T(m2) and T(m1) == m2 (0/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 15/43)
+[0m./matrix: line 19: $1: ambiguous redirect
+./matrix: line 19: $1: ambiguous redirect
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0m./matrix: line 19: $1: ambiguous redirect
+./matrix: line 19: $1: ambiguous redirect
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0m./matrix: line 19: $1: ambiguous redirect
+./matrix: line 19: $1: ambiguous redirect
+[31m	Failed: m3 == T(T(m3)) (0/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 15/58)
+[0m./matrix: line 53: $1: ambiguous redirect
+[31m	Failed: zero matrix (0/2)
+[0m./matrix: line 53: $1: ambiguous redirect
+[31m	Failed: ones matrix (0/5)
+[0m./matrix: line 53: $1: ambiguous redirect
+[31m	Failed: identity matrix (0/5)
+[0m./matrix: line 53: $1: ambiguous redirect
+[31m	Failed: hardcoded matrix (0/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 15/85)
+[0m[32m	Passed: 0 + 0 == 0 (2/2)
+[0m[32m	Passed: X + 0 == X (5/5)
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m[31m	Failed: Stdin: ("" == "77 90") (0/3)
+[0m[31m	Failed: Stdin: ("" == "57 83") (0/3)
+[0m[31m	Failed: Stdin: ("" == "94 95") (0/3)
+[0m[32m	Passed: File input: ("63 80" == "63 80") (3/3)
+[0m[32m	Passed: File input: ("97 79" == "97 79") (3/3)
+[0m[32m	Passed: File input: ("97 78" == "97 78") (3/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 24/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 34/43)
+[0m[32m	Passed: m1 == T(T(m1)) (5/5)
+[0m[32m	Passed: m2 == T(T(m2)) (5/5)
+[0m[32m	Passed: m3 == T(T(m3)) (5/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 49/58)
+[0m[32m	Passed: zero matrix (2/2)
+[0m[32m	Passed: ones matrix (5/5)
+[0m[32m	Passed: identity matrix (5/5)
+[0m[32m	Passed: hardcoded matrix (15/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 76/85)
+[0m[32m	Passed: 0 + 0 == 0 (2/2)
+[0m[32m	Passed: X + 0 == X (5/5)
+[0m[32m	Passed: 0 + X == X (5/5)
+[0m[32m	Passed: A + B  == B + A (1/1)
+[0m[32m	Passed: m1 + m2 == m3 (hardcoded matrix) (15/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 104/113)
+[0m[32m	Passed: I * M == M (5/5)
+[0m[32m	Passed: M * I == M (5/5)
+[0m[32m	Passed: 0 * M == 0 (5/5)
+[0m[32m	Passed: m3 == m1 * m2 (hardcoded matrix) (20/20)
+[0m[0;96m# Final grade: 139/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m[31m	Failed: Stdin: ("" == "66 87") (0/3)
+[0m[31m	Failed: Stdin: ("" == "73 64") (0/3)
+[0m[31m	Failed: Stdin: ("" == "61 56") (0/3)
+[0m[31m	Failed: File input: ("" == "98 92") (0/3)
+[0m[31m	Failed: File input: ("" == "100 67") (0/3)
+[0m[31m	Failed: File input: ("" == "93 91") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 25/43)
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m[31m	Failed: Stdin: ("62 0" == "62 82") (0/3)
+[0m[31m	Failed: Stdin: ("54 0" == "54 51") (0/3)
+[0m[31m	Failed: Stdin: ("58 0" == "58 84") (0/3)
+[0m[32m	Passed: File input: ("93 90" == "93 90") (3/3)
+[0m[32m	Passed: File input: ("59 88" == "59 88") (3/3)
+[0m[32m	Passed: File input: ("62 84" == "62 84") (3/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 24/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 34/43)
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m./matrix: line 16: 0=0: command not found
+[31m	Failed: Stdin: ("77 0" == "77 62") (0/3)
+[0m./matrix: line 16: 0=0: command not found
+[31m	Failed: Stdin: ("53 0" == "53 99") (0/3)
+[0m./matrix: line 16: 0=0: command not found
+[31m	Failed: Stdin: ("64 0" == "64 71") (0/3)
+[0m./matrix: line 16: 4056=52: command not found
+[31m	Failed: File input: ("78 4056" == "78 52") (0/3)
+[0m./matrix: line 16: 5780=68: command not found
+[31m	Failed: File input: ("85 5780" == "85 68") (0/3)
+[0m./matrix: line 16: 7031=89: command not found
+[31m	Failed: File input: ("79 7031" == "79 89") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 25/43)
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m./matrix: line 16: =0: command not found
+[31m	Failed: Stdin: ("91 " == "91 68") (0/3)
+[0m./matrix: line 16: =0: command not found
+[31m	Failed: Stdin: ("93 " == "93 68") (0/3)
+[0m./matrix: line 16: =0: command not found
+[31m	Failed: Stdin: ("99 " == "99 83") (0/3)
+[0m./matrix: line 16: =86: command not found
+[31m	Failed: File input: ("77 " == "77 86") (0/3)
+[0m./matrix: line 16: =61: command not found
+[31m	Failed: File input: ("64 " == "64 61") (0/3)
+[0m./matrix: line 16: =83: command not found
+[31m	Failed: File input: ("91 " == "91 83") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 25/43)
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m[31m	Failed: Stdin: ("70 " == "70 60") (0/3)
+[0m[31m	Failed: Stdin: ("94 " == "94 74") (0/3)
+[0m[31m	Failed: Stdin: ("77 " == "77 56") (0/3)
+[0m[31m	Failed: File input: ("63 " == "63 72") (0/3)
+[0m[31m	Failed: File input: ("98 " == "98 100") (0/3)
+[0m[31m	Failed: File input: ("73 " == "73 52") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 25/43)
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m[31m	Failed: Stdin: ("87 ((0/87))" == "87 70") (0/3)
+[0m[31m	Failed: Stdin: ("54 ((0/54))" == "54 71") (0/3)
+[0m[31m	Failed: Stdin: ("77 ((0/77))" == "77 87") (0/3)
+[0m[31m	Failed: File input: ("70 ((5250/70))" == "70 75") (0/3)
+[0m[31m	Failed: File input: ("89 ((6586/89))" == "89 74") (0/3)
+[0m[31m	Failed: File input: ("58 ((3190/58))" == "58 55") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 25/43)
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m./matrix: line 16: =0: command not found
+[31m	Failed: Stdin: ("" == "52 73") (0/3)
+[0m./matrix: line 16: =0: command not found
+[31m	Failed: Stdin: ("" == "86 83") (0/3)
+[0m./matrix: line 16: =0: command not found
+[31m	Failed: Stdin: ("" == "51 77") (0/3)
+[0m./matrix: line 16: =59: command not found
+[31m	Failed: File input: ("" == "68 59") (0/3)
+[0m./matrix: line 16: =92: command not found
+[31m	Failed: File input: ("" == "84 92") (0/3)
+[0m./matrix: line 16: =58: command not found
+[31m	Failed: File input: ("" == "84 58") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 25/43)
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m./matrix: line 16: =0: command not found
+[31m	Failed: Stdin: ("83 " == "83 69") (0/3)
+[0m./matrix: line 16: =0: command not found
+[31m	Failed: Stdin: ("53 " == "53 66") (0/3)
+[0m./matrix: line 16: =0: command not found
+[31m	Failed: Stdin: ("90 " == "90 60") (0/3)
+[0m./matrix: line 16: =76: command not found
+[31m	Failed: File input: ("71 " == "71 76") (0/3)
+[0m./matrix: line 16: =79: command not found
+[31m	Failed: File input: ("63 " == "63 79") (0/3)
+[0m./matrix: line 16: =93: command not found
+[31m	Failed: File input: ("71 " == "71 93") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 25/43)
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m./matrix: line 16: syntax error near unexpected token `('
+./matrix: line 16: `	$c=(($b/$a))'
+[31m	Failed: Stdin: ("" == "96 53") (0/3)
+[0m./matrix: line 16: syntax error near unexpected token `('
+./matrix: line 16: `	$c=(($b/$a))'
+[31m	Failed: Stdin: ("" == "72 81") (0/3)
+[0m./matrix: line 16: syntax error near unexpected token `('
+./matrix: line 16: `	$c=(($b/$a))'
+[31m	Failed: Stdin: ("" == "79 72") (0/3)
+[0m./matrix: line 16: syntax error near unexpected token `('
+./matrix: line 16: `	$c=(($b/$a))'
+[31m	Failed: File input: ("" == "92 91") (0/3)
+[0m./matrix: line 16: syntax error near unexpected token `('
+./matrix: line 16: `	$c=(($b/$a))'
+[31m	Failed: File input: ("" == "82 75") (0/3)
+[0m./matrix: line 16: syntax error near unexpected token `('
+./matrix: line 16: `	$c=(($b/$a))'
+[31m	Failed: File input: ("" == "98 62") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m./matrix: line 16: syntax error near unexpected token `('
+./matrix: line 16: `	$c=(($b/$a))'
+[31m	Failed: m1 == T(m2) and T(m1) == m2 (0/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 15/43)
+[0m./matrix: line 16: syntax error near unexpected token `('
+./matrix: line 16: `	$c=(($b/$a))'
+./matrix: line 16: syntax error near unexpected token `('
+./matrix: line 16: `	$c=(($b/$a))'
+[31m	Failed: m1 == T(T(m1)) (0/5)
+[0m./matrix: line 16: syntax error near unexpected token `('
+./matrix: line 16: `	$c=(($b/$a))'
+./matrix: line 16: syntax error near unexpected token `('
+./matrix: line 16: `	$c=(($b/$a))'
+[31m	Failed: m2 == T(T(m2)) (0/5)
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m./matrix: line 16: =0: command not found
+[31m	Failed: Stdin: ("94 " == "94 61") (0/3)
+[0m./matrix: line 16: =0: command not found
+[31m	Failed: Stdin: ("84 " == "84 57") (0/3)
+[0m./matrix: line 16: =0: command not found
+[31m	Failed: Stdin: ("59 " == "59 84") (0/3)
+[0m./matrix: line 16: =83: command not found
+[31m	Failed: File input: ("69 " == "69 83") (0/3)
+[0m./matrix: line 16: =57: command not found
+[31m	Failed: File input: ("91 " == "91 57") (0/3)
+[0m./matrix: line 16: =74: command not found
+[31m	Failed: File input: ("88 " == "88 74") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 25/43)
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m./matrix: line 17: 0=0: command not found
+[31m	Failed: Stdin: ("77 0" == "77 100") (0/3)
+[0m./matrix: line 17: 0=0: command not found
+[31m	Failed: Stdin: ("54 0" == "54 55") (0/3)
+[0m./matrix: line 17: 0=0: command not found
+[31m	Failed: Stdin: ("71 0" == "71 54") (0/3)
+[0m./matrix: line 17: 0=57: command not found
+[31m	Failed: File input: ("55 0" == "55 57") (0/3)
+[0m./matrix: line 17: 0=94: command not found
+[31m	Failed: File input: ("67 0" == "67 94") (0/3)
+[0m./matrix: line 17: 0=56: command not found
+[31m	Failed: File input: ("86 0" == "86 56") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 25/43)
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m[31m	Failed: Stdin: ("91 0" == "91 88") (0/3)
+[0m[31m	Failed: Stdin: ("68 0" == "68 64") (0/3)
+[0m[31m	Failed: Stdin: ("74 0" == "74 79") (0/3)
+[0m[31m	Failed: File input: ("90 7740" == "90 86") (0/3)
+[0m[31m	Failed: File input: ("60 5160" == "60 86") (0/3)
+[0m[31m	Failed: File input: ("73 5694" == "73 78") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 25/43)
+[0m[32m	Passed: m1 == T(T(m1)) (5/5)
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m./matrix: line 16: =: command not found
+[31m	Failed: Stdin: ("71 0" == "71 83") (0/3)
+[0m./matrix: line 16: =: command not found
+[31m	Failed: Stdin: ("93 0" == "93 90") (0/3)
+[0m./matrix: line 16: =: command not found
+[31m	Failed: Stdin: ("100 0" == "100 76") (0/3)
+[0m./matrix: line 16: =: command not found
+[31m	Failed: File input: ("97 8827" == "97 91") (0/3)
+[0m./matrix: line 16: =: command not found
+[31m	Failed: File input: ("61 5002" == "61 82") (0/3)
+[0m./matrix: line 16: =: command not found
+[31m	Failed: File input: ("85 4845" == "85 57") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 25/43)
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m./matrix: line 16: =: command not found
+[31m	Failed: Stdin: ("63 " == "63 96") (0/3)
+[0m./matrix: line 16: =: command not found
+[31m	Failed: Stdin: ("53 " == "53 56") (0/3)
+[0m./matrix: line 16: =: command not found
+[31m	Failed: Stdin: ("79 " == "79 79") (0/3)
+[0m./matrix: line 16: =: command not found
+[31m	Failed: File input: ("74 " == "74 54") (0/3)
+[0m./matrix: line 16: =: command not found
+[31m	Failed: File input: ("63 " == "63 91") (0/3)
+[0m./matrix: line 16: =: command not found
+[31m	Failed: File input: ("79 " == "79 57") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 25/43)
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m./matrix: line 17: 0=: command not found
+[31m	Failed: Stdin: ("61 0" == "61 83") (0/3)
+[0m./matrix: line 17: 0=: command not found
+[31m	Failed: Stdin: ("97 0" == "97 87") (0/3)
+[0m./matrix: line 17: 0=: command not found
+[31m	Failed: Stdin: ("56 0" == "56 54") (0/3)
+[0m./matrix: line 17: 0=: command not found
+[31m	Failed: File input: ("80 0" == "80 94") (0/3)
+[0m./matrix: line 17: 0=: command not found
+[31m	Failed: File input: ("97 0" == "97 74") (0/3)
+[0m./matrix: line 17: 0=: command not found
+[31m	Failed: File input: ("81 0" == "81 78") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 25/43)
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m./matrix: line 17: expr 0/90: syntax error in expression (error token is "0/90")
+[31m	Failed: Stdin: ("" == "90 80") (0/3)
+[0m./matrix: line 17: expr 0/52: syntax error in expression (error token is "0/52")
+[31m	Failed: Stdin: ("" == "52 86") (0/3)
+[0m./matrix: line 17: expr 0/96: syntax error in expression (error token is "0/96")
+[31m	Failed: Stdin: ("" == "96 81") (0/3)
+[0m./matrix: line 17: expr 5800/58: syntax error in expression (error token is "5800/58")
+[31m	Failed: File input: ("" == "58 100") (0/3)
+[0m./matrix: line 17: expr 6640/80: syntax error in expression (error token is "6640/80")
+[31m	Failed: File input: ("" == "80 83") (0/3)
+[0m./matrix: line 17: expr 7176/78: syntax error in expression (error token is "7176/78")
+[31m	Failed: File input: ("" == "78 92") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 25/43)
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m[31m	Failed: Stdin: ("95 70" == "70 95") (0/3)
+[0m[31m	Failed: Stdin: ("86 56" == "56 86") (0/3)
+[0m[31m	Failed: Stdin: ("68 73" == "73 68") (0/3)
+[0m[31m	Failed: File input: ("73 60" == "60 73") (0/3)
+[0m[31m	Failed: File input: ("55 58" == "58 55") (0/3)
+[0m[31m	Failed: File input: ("90 75" == "75 90") (0/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 15/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 25/43)
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m[32m	Passed: Stdin: ("84 52" == "84 52") (3/3)
+[0m[32m	Passed: Stdin: ("95 79" == "95 79") (3/3)
+[0m[32m	Passed: Stdin: ("54 77" == "54 77") (3/3)
+[0m[32m	Passed: File input: ("85 74" == "85 74") (3/3)
+[0m[32m	Passed: File input: ("57 87" == "57 87") (3/3)
+[0m[32m	Passed: File input: ("81 90" == "81 90") (3/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 33/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 43/43)
+[0m[32m	Passed: m1 == T(T(m1)) (5/5)
+[0m[32m	Passed: m2 == T(T(m2)) (5/5)
+[0m[32m	Passed: m3 == T(T(m3)) (5/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 58/58)
+[0m[32m	Passed: zero matrix (2/2)
+[0m[32m	Passed: ones matrix (5/5)
+[0m[32m	Passed: identity matrix (5/5)
+[0m[32m	Passed: hardcoded matrix (15/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 85/85)
+[0m[32m	Passed: 0 + 0 == 0 (2/2)
+[0m[32m	Passed: X + 0 == X (5/5)
+[0m[32m	Passed: 0 + X == X (5/5)
+[0m[32m	Passed: A + B  == B + A (1/1)
+[0m[32m	Passed: m1 + m2 == m3 (hardcoded matrix) (15/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 113/113)
+[0m[32m	Passed: I * M == M (5/5)
+[0m[32m	Passed: M * I == M (5/5)
+[0m[32m	Passed: 0 * M == 0 (5/5)
+[0m[32m	Passed: m3 == m1 * m2 (hardcoded matrix) (20/20)
+[0m[0;96m# Final grade: 148/148
+[0m[0;1;35;95m┏┓[0m [0;1;31;91m┏[0;1;33;93m━╸[0;1;32;92m┏━[0;1;36;96m╸╻[0;1;34;94m┏┓[0;1;35;95m╻┏[0;1;31;91m┓╻[0;1;33;93m╻┏[0;1;32;92m┓╻[0;1;36;96m┏━[0;1;34;94m╸[0m   [0;1;31;91m┏┳[0;1;33;93m┓┏[0;1;32;92m━┓[0;1;36;96m╺┳[0;1;34;94m╸┏[0;1;35;95m━┓[0;1;31;91m╻╻[0m [0;1;33;93m╻[0m   [0;1;36;96m╺[0;1;34;94m┳╸[0;1;35;95m┏━[0;1;31;91m╸┏[0;1;33;93m━┓[0;1;32;92m╺┳[0;1;36;96m╸[0m
+[0;1;31;91m┣┻[0;1;33;93m┓┣[0;1;32;92m╸[0m [0;1;36;96m┃╺[0;1;34;94m┓┃[0;1;35;95m┃┗[0;1;31;91m┫┃[0;1;33;93m┗┫[0;1;32;92m┃┃[0;1;36;96m┗┫[0;1;34;94m┃╺[0;1;35;95m┓[0m   [0;1;33;93m┃┃[0;1;32;92m┃┣[0;1;36;96m━┫[0m [0;1;34;94m┃[0m [0;1;35;95m┣[0;1;31;91m┳┛[0;1;33;93m┃┏[0;1;32;92m╋┛[0m    [0;1;35;95m┃[0m [0;1;31;91m┣╸[0m [0;1;33;93m┗[0;1;32;92m━┓[0m [0;1;36;96m┃[0m 
+[0;1;33;93m┗━[0;1;32;92m┛┗[0;1;36;96m━╸[0;1;34;94m┗━[0;1;35;95m┛╹[0;1;31;91m╹[0m [0;1;33;93m╹╹[0m [0;1;32;92m╹[0;1;36;96m╹╹[0m [0;1;34;94m╹[0;1;35;95m┗━[0;1;31;91m┛[0m   [0;1;32;92m╹[0m [0;1;36;96m╹╹[0m [0;1;34;94m╹[0m [0;1;35;95m╹[0m [0;1;31;91m╹[0;1;33;93m┗╸[0;1;32;92m╹╹[0m [0;1;36;96m╹[0m    [0;1;31;91m╹[0m [0;1;33;93m┗━[0;1;32;92m╸┗[0;1;36;96m━┛[0m [0;1;34;94m╹[0m 
+[4mUnit test 1: error messages
+[0m[0;96m# (running score = 0/0)
+[0m[32m	Passed: too many args to matrix dims (1/1)
+[0m[32m	Passed: no args to matrix add (1/1)
+[0m[32m	Passed: multiplying incompatible matrices (5/5)
+[0m[32m	Passed: adding incompatible matrices (4/4)
+[0m[32m	Passed: tranpose unreadable file (2/2)
+[0m[32m	Passed: get dims of nonexistent file (1/1)
+[0m[32m	Passed: matrix badcommand (1/1)
+[0m[4mUnit test 2: matrix dims tests
+[0m[0;96m# (running score = 15/15)
+[0m[32m	Passed: Stdin: ("51 51" == "51 51") (3/3)
+[0m[32m	Passed: Stdin: ("67 91" == "67 91") (3/3)
+[0m[32m	Passed: Stdin: ("99 96" == "99 96") (3/3)
+[0m[32m	Passed: File input: ("61 55" == "61 55") (3/3)
+[0m[32m	Passed: File input: ("94 62" == "94 62") (3/3)
+[0m[32m	Passed: File input: ("66 98" == "66 98") (3/3)
+[0m[4mUnit test 3: matrix transpose hardcoded test
+[0m[0;96m# (running score = 33/33)
+[0m[32m	Passed: m1 == T(m2) and T(m1) == m2 (10/10)
+[0m[4mUnit test 4: matrix transpose involution test
+[0m[0;96m# (running score = 43/43)
+[0m[32m	Passed: m1 == T(T(m1)) (5/5)
+[0m[32m	Passed: m2 == T(T(m2)) (5/5)
+[0m[32m	Passed: m3 == T(T(m3)) (5/5)
+[0m[4mUnit test 5: matrix mean test
+[0m[0;96m# (running score = 58/58)
+[0m[32m	Passed: zero matrix (2/2)
+[0m[32m	Passed: ones matrix (5/5)
+[0m[32m	Passed: identity matrix (5/5)
+[0m[32m	Passed: hardcoded matrix (15/15)
+[0m[4mUnit test 6: matrix add test
+[0m[0;96m# (running score = 85/85)
+[0m[32m	Passed: 0 + 0 == 0 (2/2)
+[0m[32m	Passed: X + 0 == X (5/5)
+[0m[32m	Passed: 0 + X == X (5/5)
+[0m[32m	Passed: A + B  == B + A (1/1)
+[0m[32m	Passed: m1 + m2 == m3 (hardcoded matrix) (15/15)
+[0m[4mUnit test 7: matrix multiply test
+[0m[0;96m# (running score = 113/113)
+[0m[32m	Passed: I * M == M (5/5)
+[0m[32m	Passed: M * I == M (5/5)
+[0m[32m	Passed: 0 * M == 0 (5/5)
+[0m[32m	Passed: m3 == m1 * m2 (hardcoded matrix) (20/20)
+[0m[0;96m# Final grade: 148/148
+[0m
